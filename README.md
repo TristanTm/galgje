@@ -12,3 +12,6 @@
 ## Beurten
 req1: g
 res1: top goed
+req2: b
+req3: a
+req4: l
